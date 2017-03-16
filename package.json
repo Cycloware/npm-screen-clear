@@ -1,0 +1,27 @@
+{
+   "name": "screen-clear",
+   "author": "Kavan J. Shaban (Cycloware, LLC)",
+   "description": "Clear the terminal screen with a terminal command",
+   "version": "1.0.2",
+   "homepage": "https://github.com/Cycloware/npm-screen-clear",
+   "repository": {
+      "url": "https://github.com/Cycloware/npm-screen-clear.git",
+      "type": "git"
+   },
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "main": "index.js",
+   "bin": {
+      "screen-clear": "./index.js",
+      "clscr": "./index.js"
+   },
+   "keywords": [
+      "clear",
+      "cls",
+      "clear-screen",
+      "screen-clear",
+      "console",
+      "terminal"
+   ]
+}
