@@ -1,8 +1,8 @@
 {
    "name": "screen-clear",
+   "version": "1.0.13",
    "author": "Kavan J. Shaban (Cycloware, LLC)",
    "description": "Clear the terminal screen with a terminal command",
-   "version": "1.0.12",
    "homepage": "https://github.com/Cycloware/npm-screen-clear",
    "repository": {
       "url": "https://github.com/Cycloware/npm-screen-clear.git",
